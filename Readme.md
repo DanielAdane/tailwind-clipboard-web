@@ -1,3 +1,3 @@
 # Tailwind Clipboard Website
 
-[Live Demo](https://clipboard-web.netlify.app/)
+[Live Preview](https://clipboard-web.netlify.app/)
